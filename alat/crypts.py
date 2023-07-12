@@ -4,7 +4,7 @@ from .errors import (
    InconsistentCharacterError,
    InvertibleMatixError,
 )
-from alat.matrices import Matrices
+from .matrices import Matrices
 
 __all__ = ["Crypts"]
 
