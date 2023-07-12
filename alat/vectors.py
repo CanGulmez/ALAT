@@ -1,8 +1,8 @@
 # Vector methods in ALAT (Advanced Linear Algebra Toolkit)
 
 import math
-from alat.matrices import Matrices
-from alat.errors import (
+from .matrices import Matrices
+from .errors import (
    ZeroLenghtError,
    DimensionError, 
    ZeroVectorError,
