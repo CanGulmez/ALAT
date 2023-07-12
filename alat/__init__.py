@@ -21,7 +21,7 @@ Starting date: 04-07-2022
 """
 
 __author__ = "Can Gulmez (ahmetcangulmez02@gmail.com)"
-__version__ = "2.0.0"
+__version__ = "1.2.0"
 __licence__ = "MIT License"
 
 from .matrices import Matrices
