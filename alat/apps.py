@@ -5,7 +5,7 @@ from .errors import (
    InvertibleMatixError,
    PolynomialCureFittingError,
 )
-from alat.matrices import Matrices
+from .matrices import Matrices
 
 __all__ = ["Apps"]
 
